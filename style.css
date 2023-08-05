@@ -107,3 +107,27 @@ img {vertical-align: middle;}
 @media only screen and (max-width: 300px) {
   .text {font-size: 11px}
 }
+.btmnav{
+  background-color: #F33A6A;
+  overflow: hidden;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 5%;
+  right:0.2%;
+}
+.noti{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.home{
+  position: absolute;
+  top:1%;
+  left: 15%;
+}
+.ref{
+  position: absolute;
+  top:1%;
+  right: 15%;
+}
